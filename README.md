@@ -22,8 +22,8 @@ Kunjungi: [Klik di sini](https://arfan-code123.github.io/cv-la-arfan/)
 
 ## 📬 Kontak
 Jika tertarik untuk bekerja sama atau menghubungi saya:
-- Email: **[masukkan email kamu]**
-- WhatsApp: **[masukkan nomor kamu]**
+- Email: **[oihuarfan@gmail.com]**
+- WhatsApp: **[082320520288]**
 - GitHub: [arfan-code123](https://github.com/arfan-code123)
 
 ---
