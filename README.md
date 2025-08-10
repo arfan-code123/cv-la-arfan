@@ -16,4 +16,4 @@ CV ini berisi informasi tentang:
 
 ---
 
-© 2025 Arfan Oihu. Semua hak dilindungi.
+© 2025 La Arfan. Semua hak dilindungi.
