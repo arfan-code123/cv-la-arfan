@@ -1,19 +1,31 @@
-# Curriculum Vitae - Arfan Oihu
+# CV La Arfan
 
-Ini adalah versi web dari Curriculum Vitae (CV) saya.  
-CV ini berisi informasi tentang:
-- Kontak
-- Tentang Saya
-- Keterampilan
-- Pendidikan
-- Sertifikat
-- Proyek
+Ini adalah website **Curriculum Vitae** (CV) online milik saya, La Arfan.  
+Website ini dibuat dengan HTML, CSS, dan JavaScript, serta di-host menggunakan **GitHub Pages**.
 
-## Teknologi yang digunakan
-- HTML5
-- CSS3
-- JavaScript
+## 🌐 Demo Website
+Kunjungi: [Klik di sini](https://arfan-code123.github.io/cv-la-arfan/)
+
+## 📋 Fitur
+- Tampilan responsif untuk desktop dan mobile
+- Informasi pribadi & kontak
+- Riwayat pendidikan
+- Pengalaman kerja & proyek
+- Sertifikat & keahlian
+- Desain modern dan mudah dibaca
+
+## 🛠 Teknologi yang Digunakan
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **GitHub Pages** (untuk hosting)
+
+## 📬 Kontak
+Jika tertarik untuk bekerja sama atau menghubungi saya:
+- Email: **[masukkan email kamu]**
+- WhatsApp: **[masukkan nomor kamu]**
+- GitHub: [arfan-code123](https://github.com/arfan-code123)
 
 ---
 
-© 2025 La Arfan. Semua hak dilindungi.
+💡 *Website ini akan terus diperbarui untuk mencerminkan perkembangan karier saya.*
