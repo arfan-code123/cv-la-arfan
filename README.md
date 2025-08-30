@@ -39,6 +39,10 @@ CV ini menampilkan informasi profil profesional, keterampilan, pendidikan, serti
 2. Atau clone repo ke lokal:  
    ```bash
    git clone https://github.com/arfan-code123/cv-la-arfan.git
+
+   ## 📸 Preview
+![Preview CV](screenshot.png)
+
 ## 📜 Lisensi
 Proyek ini dibuat oleh **La Arfan**. Silakan gunakan sebagai referensi, dilarang menyalin penuh tanpa izin.
    
