@@ -1,31 +1,44 @@
-# CV La Arfan
+# 🌐 CV La Arfan
 
-Ini adalah website **Curriculum Vitae** (CV) online milik saya, La Arfan.  
-Website ini dibuat dengan HTML, CSS, dan JavaScript, serta di-host menggunakan **GitHub Pages**.
-
-## 🌐 Demo Website
-Kunjungi: [Klik di sini](https://arfan-code123.github.io/cv-la-arfan/)
-
-## 📋 Fitur
-- Tampilan responsif untuk desktop dan mobile
-- Informasi pribadi & kontak
-- Riwayat pendidikan
-- Pengalaman kerja & proyek
-- Sertifikat & keahlian
-- Desain modern dan mudah dibaca
-
-## 🛠 Teknologi yang Digunakan
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- **GitHub Pages** (untuk hosting)
-
-## 📬 Kontak
-Jika tertarik untuk bekerja sama atau menghubungi saya:
-- Email: **[oihuarfan@gmail.com]**
-- WhatsApp: **[- WhatsApp: [082320520288](https://wa.me/6282320520288?text=Halo%20Arfan%2C%20saya%20tertarik%20dengan%20CV%20Anda)]**
-- GitHub: [arfan-code123](https://github.com/arfan-code123)
+📌 **Live Demo**: [Klik di sini](https://arfan-code123.github.io/cv-la-arfan/)  
 
 ---
 
-💡 *Website ini akan terus diperbarui untuk mencerminkan perkembangan karier saya.*
+## 📄 Deskripsi
+Ini adalah **Curriculum Vitae (CV) online** milik **La Arfan**, seorang **Web Developer Frontend otodidak** yang memulai perjalanan coding hanya dengan **HP**.  
+
+CV ini menampilkan informasi profil profesional, keterampilan, pendidikan, sertifikat, serta kumpulan proyek nyata yang telah dikembangkan. Dibuat untuk memudahkan recruiter, perusahaan, maupun kolaborator mengenal kemampuan dan pengalaman saya.  
+
+---
+
+## ✨ Fitur Utama
+- 👤 **Profil & Kontak**: Email, WhatsApp, GitHub, LinkedIn, dan alamat  
+- 📖 **Tentang Saya**: Perjalanan belajar & semangat berkembang  
+- 🛠 **Keterampilan**: HTML, CSS, JavaScript, Firebase, Cloudinary, GitHub, UI/UX Design  
+- 🎓 **Pendidikan**: Universitas Darussalam Ambon  
+- 🏆 **Sertifikat**: Sololearn (AI & Data Analysis, Creative Thinking, dsb.)  
+- 💼 **Proyek Nyata**:  
+  - **Website SMAN 1** → CMS sederhana (CRUD Berita, Album, Dashboard Admin)  
+  - **Website Universitas** → Website profil multi-halaman dengan komentar dinamis  
+  - **Website Portal Berita** → Sistem list berita + detail (fitur *Baca Selengkapnya*) + komentar berbasis Firebase  
+
+---
+
+## 🛠 Teknologi yang Digunakan
+- **HTML5**  
+- **CSS3**  
+- **JavaScript**  
+- **Firebase** (Auth, Firestore, Hosting, Komentar)  
+- **Cloudinary** (Image Upload & Management)  
+- **GitHub Pages** (Hosting CV Online)  
+
+---
+
+## 🚀 Cara Melihat
+1. Kunjungi link demo: [CV Online La Arfan](https://arfan-code123.github.io/cv-la-arfan/)  
+2. Atau clone repo ke lokal:  
+   ```bash
+   git clone https://github.com/arfan-code123/cv-la-arfan.git
+## 📜 Lisensi
+Proyek ini dibuat oleh **La Arfan**. Silakan gunakan sebagai referensi, dilarang menyalin penuh tanpa izin.
+   
