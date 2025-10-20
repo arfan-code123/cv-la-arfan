@@ -69,7 +69,10 @@ section h2 {
 }
 
 .contact li {
-  margin-bottom: 10px;
+  background: #f0f4f8;
+  padding: 8px 12px;
+  border-radius: 8px;
+  border-left: 4px solid #0077b5;
 }
 
 .contact a {
@@ -87,6 +90,13 @@ section h2 {
   text-align: justify;
 }
 
+.about p {
+  background: #f0f4f8;
+  padding: 8px 12px;
+  border-radius: 8px;
+  border-left: 4px solid #0077b5;
+}
+
 /* Skills */
 .skills ul {
   display: grid;
@@ -102,14 +112,35 @@ section h2 {
   border-left: 4px solid #0077b5;
 }
 
+/* Tolls */
+.tolls ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 8px;
+  list-style: none;
+}
+
+.tolls li {
+  background: #f0f4f8;
+  padding: 8px 12px;
+  border-radius: 8px;
+  border-left: 4px solid #0077b5;
+}
+
 /* Pendidikan */
+
 .education ul {
-  list-style: disc;
-  padding-left: 20px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 8px;
+  list-style: none;
 }
 
 .education li {
-  margin-bottom: 10px;
+  background: #f0f4f8;
+  padding: 8px 12px;
+  border-radius: 8px;
+  border-left: 4px solid #0077b5;
 }
 
 /* Sertifikat */
@@ -118,7 +149,10 @@ section h2 {
 }
 
 .certificates li {
-  margin-bottom: 15px;
+  background: #f0f4f8;
+  padding: 8px 12px;
+  border-radius: 8px;
+  border-left: 4px solid #0077b5;
 }
 
 .certificates button {
@@ -187,4 +221,4 @@ footer {
   header p {
     font-size: 1rem;
   }
-}
+  }
